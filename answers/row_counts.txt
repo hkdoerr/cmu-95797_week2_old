@@ -1,0 +1,8 @@
+table_name|row_count
+green_tripdata|2802931
+fhvhv_tripdata|317906523
+fhv_tripdata|29750730
+fhv_bases|1098
+daily_citi_bike_trip_counts_and_weather|883
+bike_data|47168308
+central_park_weather|2984
